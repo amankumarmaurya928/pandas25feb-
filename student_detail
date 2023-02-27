@@ -1,0 +1,11 @@
+student_id,student_name,student_email,parent_name,score(in%)
+1,aman,am@gmail.com,jairam,85
+2,madva,mda@gmail.com,deav,90
+3,ak,ak@gmail.com,s.aman,80
+4,akash,aka@gmail.com,himanshu,75
+5,akur,kur@gmail.com,kunal,85
+6,divya,divya@gmail.com,nilesh,82
+7,b.tiwari,btiwari@gmail.com,j.tiwari,78
+8,parkash,pkh@gmail.com,ram,85
+9,deep,deep@gmail.com,ramesh,90
+10,jai,jai@gmail.com,ram kumar,85
